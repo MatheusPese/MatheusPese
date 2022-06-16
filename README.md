@@ -2,7 +2,7 @@
 
 ## 👤 Biografy
 
-My name is Matheus Pesegoginski, But you can call me "Pese" or "Pesego". Curently I am student, learning Fullstack Development on my postgratuate degree at PUCRS Online. I love technology and I've been studying and thinkering with hardware and software since I was a teenager. I aspire to be a software developer, a game developer, or a teacher on the software development industry someday. **I am looking for oportunities**, so feel free to [contact-me](mailto:matheuspese.j@outlook.com) to offer a job proposal.
+My name is Matheus Pesegoginski, But you can call me "Pese" or "Pesego". I live in Brazil, Curently studying Fullstack Development on my postgratuate degree at PUCRS Online. **I am looking for oportunities**, so feel free to [contact-me](mailto:matheuspese.j@outlook.com) to offer a job proposal.
 
 Here are some of my socials:
 
