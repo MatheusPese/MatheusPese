@@ -2,7 +2,7 @@
 
 ## 👤 Biography
 
-My name is Matheus Pesegoginski, but you can call me "Pese" or "Pesego". I live in Brazil, I have postgratuate degree at PUCRS Online as Fullstack Developer. I am also doing a master's degree on [@UFRGS](https://github.com/ufrgs) in microeletronics. Feel free to [contact-me](mailto:matheuspese.j@outlook.com).
+My name is Matheus Pesegoginski, but you can call me "Pese" or "Pesego". I live in Brazil, I have degree in Systems Analysis and Development, a Postgratuate degree as Fullstack Developer, and I am doing a master's degree in microeletronics. Feel free to [contact-me](mailto:matheuspese.j@outlook.com).
 
 Here are some of my socials:
 
